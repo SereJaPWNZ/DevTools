@@ -1,4 +1,4 @@
-# [DevTools](https://drive.google.com/file/d/1RrTRPoqoiIMOKLYm5Le8DpXqPu-La35K/view?usp=sharing)
+# DevTools
 [![Header](https://github.com/SereJaPWNZ/DevTools/blob/master/assert/logo.png)](https://drive.google.com/file/d/1RrTRPoqoiIMOKLYm5Le8DpXqPu-La35K/view?usp=sharing)
 ### [Ссылка на видео](https://drive.google.com/file/d/1RrTRPoqoiIMOKLYm5Le8DpXqPu-La35K/view?usp=sharing)
 ## Home Work
