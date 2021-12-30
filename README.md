@@ -1,6 +1,6 @@
 # DevTools
 [![Header](https://github.com/SereJaPWNZ/DevTools/blob/master/assert/logo.png)](https://drive.google.com/file/d/1RrTRPoqoiIMOKLYm5Le8DpXqPu-La35K/view?usp=sharing)
-### [Ссылка на видео](https://drive.google.com/file/d/1RrTRPoqoiIMOKLYm5Le8DpXqPu-La35K/view?usp=sharing)
+### <center>[Ссылка на видео](https://drive.google.com/file/d/1RrTRPoqoiIMOKLYm5Le8DpXqPu-La35K/view?usp=sharing)</center>
 ## Home Work
 1. Открыть Chrome DevTools
 2. Зайти в панель Elements.
